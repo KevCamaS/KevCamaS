@@ -7,4 +7,4 @@
 👯 No dudes en escribirme si tienes propuestas de colaboración en seguridad o desarrollo.
 💬 Pregúntame acerca del uso de la tecnología para reducir las brechas en la sociedad.
 📫 Puedes comunicarte conmigo a través de mi correo: **kevincamasanchez@gmail.com**
-⚡ Dato curioso: Me apasiona entender cómo funcionan las cosas desde cero y es satisfactorio cuando los entiendo. 
+⚡ Dato curioso: Me apasiona entender cómo funcionan las cosas desde cero y tengo experiencia en Videojuegos (eSports).
