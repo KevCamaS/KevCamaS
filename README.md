@@ -2,7 +2,7 @@
 
 🌱 **Estudiante de Ingeniería de Sistemas**.
 🛡️ Enfoque actual: **Ciberseguridad**, administración de servidores y hardening.
-🔭 Investigando el uso de **IA e IoT** para soluciones de infraestructura y seguridad.
+🔭 Investigando el uso de **IA** para soluciones de infraestructura y seguridad.
 📝 Muy detallista con la documentación técnica y bitácoras de aprendizaje (.txt).
 👯 No dudes en escribirme si tienes propuestas de colaboración en seguridad o desarrollo.
 💬 Pregúntame acerca del uso de la tecnología para reducir las brechas en la sociedad.
