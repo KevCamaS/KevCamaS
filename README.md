@@ -1,10 +1,129 @@
-# Bienvenido a mi perfil 👋
+<div align="center">
 
-🌱 **Estudiante de Ingeniería de Sistemas**.
-🛡️ Enfoque actual: **Ciberseguridad**, administración de servidores y hardening.
-🔭 Investigando el uso de **IA** para soluciones de infraestructura y seguridad.
-📝 Muy detallista con la documentación técnica y bitácoras de aprendizaje (.txt).
-👯 No dudes en escribirme si tienes propuestas de colaboración en seguridad o desarrollo.
-💬 Pregúntame acerca del uso de la tecnología para reducir las brechas en la sociedad.
-📫 Puedes comunicarte conmigo a través de mi correo: **kevincamasanchez@gmail.com**
-⚡ Dato curioso: Me apasiona entender cómo funcionan las cosas desde cero y tengo experiencia en Videojuegos (eSports).
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=Kevin+Anthony+Cama+S%C3%A1nchez;Blue+Team+%7C+SOC+%7C+Defensive+Security;Labs+%C2%B7+Automation+%C2%B7+IA+aplicada" alt="Typing SVG" />
+
+<br/>
+
+**Practicante de Ciberseguridad · Blue Team / SOC · Ing. de Sistemas (10.º ciclo)**
+
+`admin@blue-team:~$` quien observa, documenta y automatiza — sin inventar IoCs.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-portafoliokacs-64FFDA?style=for-the-badge&logo=netlify&logoColor=0A0E27&labelColor=1A1A2E)](https://portafoliokacs.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kevin--cama--s%C3%A1nchez-64FFDA?style=for-the-badge&logo=linkedin&logoColor=0A0E27&labelColor=1A1A2E)](https://www.linkedin.com/in/kevin-cama-s%C3%A1nchez-632307403)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-kevincamasanchez-64FFDA?style=for-the-badge&logo=tryhackme&logoColor=0A0E27&labelColor=1A1A2E)](https://tryhackme.com/p/kevincamasanchez)
+[![Email](https://img.shields.io/badge/Email-kevincamasanchez%40gmail.com-B388FF?style=for-the-badge&logo=gmail&logoColor=0A0E27&labelColor=1A1A2E)](mailto:kevincamasanchez@gmail.com)
+
+</div>
+
+---
+
+### `whoami`
+
+```bash
+$ cat sobre_mi.txt
+Estudiante de Ingeniería de Sistemas (10.º ciclo · UNDC · Perú).
+Enfoque: ciberseguridad defensiva — SOC Tier 1, Blue Team,
+evaluación de controles, hardening Linux y automatización con Python.
+
+También practico IA aplicada a seguridad (triage de alertas / prompts LLM)
+con una regla clara: el analista decide; el modelo no inventa datos.
+
+Advertencia: contiene curiosidad técnica, bitácoras .txt y café.
+```
+
+- 🔭 Construyendo **labs SOC** (Wazuh simulado, logs Windows/Linux, IoCs, MITRE ATT&CK)
+- 🎓 **Ingeniería de Sistemas** — Universidad Nacional de Cañete · egreso proyectado Dic. 2026
+- 🎯 Especializado en **Blue Team**, **triage T1**, **hardening** y **documentación con evidencias**
+- 🧠 Aprendiendo SIEM/EDR (fundamentos), Threat Intelligence e integración con APIs/LLMs
+- 🛡️ Práctica en auditoría Linux (Lynis, Nmap, Fail2Ban, Grafana) y reportería automatizada
+- ☕ Combustible: cafeína, `Failed password` en auth.log y tickets bien documentados
+- ⚡ Fun fact: prefiero **entender el log** antes de cerrar la alerta
+
+---
+
+### 🛠️ Arsenal — Blue Team
+
+<div align="center">
+
+![SOC](https://img.shields.io/badge/SOC%20Tier%201-64FFDA?style=for-the-badge&labelColor=1A1A2E)
+![Blue Team](https://img.shields.io/badge/Blue%20Team-64FFDA?style=for-the-badge&labelColor=1A1A2E)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-64FFDA?style=for-the-badge&labelColor=1A1A2E)
+![Wazuh](https://img.shields.io/badge/Wazuh%20(lab)-64FFDA?style=for-the-badge&labelColor=1A1A2E)
+![SIEM](https://img.shields.io/badge/SIEM%20fundamentos-64FFDA?style=for-the-badge&labelColor=1A1A2E)
+![EDR](https://img.shields.io/badge/EDR%20fundamentos-64FFDA?style=for-the-badge&labelColor=1A1A2E)
+
+![Linux](https://img.shields.io/badge/Linux-64FFDA?style=for-the-badge&logo=linux&logoColor=0A0E27&labelColor=1A1A2E)
+![Nmap](https://img.shields.io/badge/Nmap-64FFDA?style=for-the-badge&labelColor=1A1A2E)
+![Lynis](https://img.shields.io/badge/Lynis-64FFDA?style=for-the-badge&labelColor=1A1A2E)
+![Fail2Ban](https://img.shields.io/badge/Fail2Ban-64FFDA?style=for-the-badge&labelColor=1A1A2E)
+![Grafana](https://img.shields.io/badge/Grafana-64FFDA?style=for-the-badge&logo=grafana&logoColor=0A0E27&labelColor=1A1A2E)
+![Prometheus](https://img.shields.io/badge/Prometheus-64FFDA?style=for-the-badge&logo=prometheus&logoColor=0A0E27&labelColor=1A1A2E)
+
+![Python](https://img.shields.io/badge/Python-B388FF?style=for-the-badge&logo=python&logoColor=0A0E27&labelColor=1A1A2E)
+![Bash](https://img.shields.io/badge/Bash-B388FF?style=for-the-badge&logo=gnubash&logoColor=0A0E27&labelColor=1A1A2E)
+![Git](https://img.shields.io/badge/Git-B388FF?style=for-the-badge&logo=git&logoColor=0A0E27&labelColor=1A1A2E)
+![Docker](https://img.shields.io/badge/Docker-B388FF?style=for-the-badge&logo=docker&logoColor=0A0E27&labelColor=1A1A2E)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-B388FF?style=for-the-badge&logo=tryhackme&logoColor=0A0E27&labelColor=1A1A2E)
+![LLMs](https://img.shields.io/badge/LLMs%20%2F%20Prompts-B388FF?style=for-the-badge&labelColor=1A1A2E)
+
+</div>
+
+---
+
+### 🧪 Labs & proyectos (SOC / Blue Team)
+
+<div align="center">
+
+| Lab | Qué practiqué |
+|-----|----------------|
+| [-lab-soc-wazuh-mitre-ia](https://github.com/KevCamaS/-lab-soc-wazuh-mitre-ia) | Triage T1 de alertas estilo Wazuh · MITRE · IoCs · Python |
+| [lab-windows-eventlog-soc](https://github.com/KevCamaS/lab-windows-eventlog-soc) | Logs Windows 4624/4625 · brute force vs ruido · IoCs |
+| [labs-lab-ioc-threat-intel](https://github.com/KevCamaS/labs-lab-ioc-threat-intel) | Enriquecimiento de IoCs · reputación · acción T1 |
+| [labs-lab-llm-soc-prompts](https://github.com/KevCamaS/labs-lab-llm-soc-prompts) | Prompts LLM para analista T1 · casos PASS/FAIL |
+| [laboratorio-ec2-fail2ban](https://github.com/KevCamaS/laboratorio-ec2-fail2ban) | Contención SSH en AWS EC2 · Fail2ban · MITRE T1110 |
+| [hardening-auditoria-vps-mype-portafolio](https://github.com/KevCamaS/hardening-auditoria-vps-mype-portafolio) | Auditoría VPS · Lynis/Nmap · hardening · Grafana |
+| [detecccion-fraude-fintech-DL](https://github.com/KevCamaS/detecccion-fraude-fintech-DL) | Detección de fraude fintech con Deep Learning |
+
+> Portafolio web: [portafoliokacs.netlify.app](https://portafoliokacs.netlify.app)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevCamaS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=64FFDA&icon_color=64FFDA&text_color=E6F1FF&ring_color=B388FF)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevCamaS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=64FFDA&text_color=E6F1FF)
+
+![Followers](https://img.shields.io/github/followers/KevCamaS?style=for-the-badge&color=64FFDA&labelColor=1A1A2E&logo=github&logoColor=64FFDA)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/KevCamaS&label=Repos&query=public_repos&color=64FFDA&style=for-the-badge&labelColor=1A1A2E&logo=github&logoColor=64FFDA)
+![Commits](https://img.shields.io/github/commit-activity/y/KevCamaS/KevCamaS?style=for-the-badge&color=B388FF&labelColor=1A1A2E&logo=github&logoColor=B388FF)
+
+</div>
+
+---
+
+### 🐍 Actividad
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/KevCamaS/KevCamaS/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=KevCamaS&color=64FFDA&style=flat-square&label=Profile+Views)
+
+<br/>
+
+*"Primero el log, luego la hipótesis — nunca al revés."* · Blue Team 🇵🇪
+
+**Disponible para prácticas preprofesionales en ciberseguridad (SOC / Blue Team)**
+
+</div>
