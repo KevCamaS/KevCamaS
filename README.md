@@ -1,17 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=Kevin+Anthony+Cama+S%C3%A1nchez;Blue+Team+%7C+SOC+%7C+Defensive+Security;Labs+%C2%B7+Automation+%C2%B7+IA+aplicada" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=64FFDA&center=true&vCenter=true&width=720&lines=Gofthy;Blue+Team+%7C+SOC+%7C+Defensive+Security;Labs+%C2%B7+Automation+%C2%B7+Applied+AI" alt="Typing SVG" />
 
 <br/>
 
-**Practicante de Ciberseguridad · Blue Team / SOC · Ing. de Sistemas (10.º ciclo)**
+**Ingeniería de Sistemas · Blue Team / SOC**
 
-`admin@blue-team:~$` quien observa, documenta y automatiza — sin inventar IoCs.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-portafoliokacs-64FFDA?style=for-the-badge&logo=netlify&logoColor=0A0E27&labelColor=1A1A2E)](https://portafoliokacs.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kevin--cama--s%C3%A1nchez-64FFDA?style=for-the-badge&logo=linkedin&logoColor=0A0E27&labelColor=1A1A2E)](https://www.linkedin.com/in/kevin-cama-s%C3%A1nchez-632307403)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-kevincamasanchez-64FFDA?style=for-the-badge&logo=tryhackme&logoColor=0A0E27&labelColor=1A1A2E)](https://tryhackme.com/p/kevincamasanchez)
-[![Email](https://img.shields.io/badge/Email-kevincamasanchez%40gmail.com-B388FF?style=for-the-badge&logo=gmail&logoColor=0A0E27&labelColor=1A1A2E)](mailto:kevincamasanchez@gmail.com)
+`gofthy@blue-team:~$` observe · document · automate — never invent IoCs.
 
 </div>
 
@@ -21,19 +16,19 @@
 
 ```bash
 $ cat sobre_mi.txt
-Estudiante de Ingeniería de Sistemas (10.º ciclo · UNDC · Perú).
+Estudiante de Ingeniería de Sistemas.
 Enfoque: ciberseguridad defensiva — SOC Tier 1, Blue Team,
 evaluación de controles, hardening Linux y automatización con Python.
 
-También practico IA aplicada a seguridad (triage de alertas / prompts LLM)
+También practico IA aplicada a seguridad (triage / prompts LLM)
 con una regla clara: el analista decide; el modelo no inventa datos.
 
 Advertencia: contiene curiosidad técnica, bitácoras .txt y café.
 ```
 
 - 🔭 Construyendo **labs SOC** (Wazuh simulado, logs Windows/Linux, IoCs, MITRE ATT&CK)
-- 🎓 **Ingeniería de Sistemas** — Universidad Nacional de Cañete · egreso proyectado Dic. 2026
-- 🎯 Especializado en **Blue Team**, **triage T1**, **hardening** y **documentación con evidencias**
+- 🎓 Formación en **Ingeniería de Sistemas**
+- 🎯 Enfoque: **Blue Team**, **triage T1**, **hardening** y **documentación con evidencias**
 - 🧠 Aprendiendo SIEM/EDR (fundamentos), Threat Intelligence e integración con APIs/LLMs
 - 🛡️ Práctica en auditoría Linux (Lynis, Nmap, Fail2Ban, Grafana) y reportería automatizada
 - ☕ Combustible: cafeína, `Failed password` en auth.log y tickets bien documentados
@@ -76,15 +71,12 @@ Advertencia: contiene curiosidad técnica, bitácoras .txt y café.
 
 | Lab | Qué practiqué |
 |-----|----------------|
-| [-lab-soc-wazuh-mitre-ia](https://github.com/KevCamaS/-lab-soc-wazuh-mitre-ia) | Triage T1 de alertas estilo Wazuh · MITRE · IoCs · Python |
+| [lab-soc-wazuh-mitre-ia](https://github.com/KevCamaS/lab-soc-wazuh-mitre-ia) | Triage T1 de alertas estilo Wazuh · MITRE · IoCs · Python |
 | [lab-windows-eventlog-soc](https://github.com/KevCamaS/lab-windows-eventlog-soc) | Logs Windows 4624/4625 · brute force vs ruido · IoCs |
-| [labs-lab-ioc-threat-intel](https://github.com/KevCamaS/labs-lab-ioc-threat-intel) | Enriquecimiento de IoCs · reputación · acción T1 |
-| [labs-lab-llm-soc-prompts](https://github.com/KevCamaS/labs-lab-llm-soc-prompts) | Prompts LLM para analista T1 · casos PASS/FAIL |
+| [lab-ioc-threat-intel](https://github.com/KevCamaS/lab-ioc-threat-intel) | Enriquecimiento de IoCs · reputación · acción T1 |
+| [lab-llm-soc-prompts](https://github.com/KevCamaS/lab-llm-soc-prompts) | Prompts LLM para analista T1 · casos PASS/FAIL |
 | [laboratorio-ec2-fail2ban](https://github.com/KevCamaS/laboratorio-ec2-fail2ban) | Contención SSH en AWS EC2 · Fail2ban · MITRE T1110 |
 | [hardening-auditoria-vps-mype-portafolio](https://github.com/KevCamaS/hardening-auditoria-vps-mype-portafolio) | Auditoría VPS · Lynis/Nmap · hardening · Grafana |
-| [detecccion-fraude-fintech-DL](https://github.com/KevCamaS/detecccion-fraude-fintech-DL) | Detección de fraude fintech con Deep Learning |
-
-> Portafolio web: [portafoliokacs.netlify.app](https://portafoliokacs.netlify.app)
 
 </div>
 
@@ -122,8 +114,6 @@ Advertencia: contiene curiosidad técnica, bitácoras .txt y café.
 
 <br/>
 
-*"Primero el log, luego la hipótesis — nunca al revés."* · Blue Team 🇵🇪
-
-**Disponible para prácticas preprofesionales en ciberseguridad (SOC / Blue Team)**
+*"Primero el log, luego la hipótesis — nunca al revés."* · Blue Team
 
 </div>
